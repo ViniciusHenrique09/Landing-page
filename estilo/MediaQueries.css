@@ -167,7 +167,7 @@
     font-family: "Bai Jamjuree", sans-serif;
     opacity: 80%;
     margin-bottom: -25px;
-    margin-left: 27px;
+    margin-left: 20px;
   }
   #container-l > p {
     width: 372px;
@@ -214,15 +214,15 @@
     font-family: "Bai Jamjuree", sans-serif;
   }
   .lista {
-    margin: 100px 0px 40px 175px;
+    margin: 100px 0px 40px 167px;
     width: 60px;
   }
   .texto {
-    margin: 100px 0px 40px 175px;
+    margin: 100px 0px 40px 167px;
     width: 60px;
   }
   .visualizacao {
-    margin: 100px 0px 40px 175px;
+    margin: 100px 0px 40px 167px;
     width: 60px;
   }
   .parceria {
