@@ -88,26 +88,6 @@
     width: 320px;
     margin: 0px 0px 60px 29px;
   }
-  .pesquisa {
-    width: 372px;
-    margin-bottom: 200px;
-  }
-  .pesquisa > h3 {
-    text-align: center;
-    padding-bottom: 25px;
-    font-size: 1.5em;
-    font-family: "Bai Jamjuree", sans-serif;
-    opacity: 80%;
-    margin-bottom: -30px;
-  }
-  .pesquisa > p {
-    line-height: 1.5em;
-    padding: 20px;
-    font-size: 150%;
-    text-align: center;
-    opacity: 50%;
-    font-family: "Bai Jamjuree", sans-serif;
-  }
   section#excluir {
     height: 100px;
   }
