@@ -8,7 +8,7 @@
     height: 470px;
   }
   .back {
-    width: 390px;
+    width: 422px;
   }
   .logo {
     width: 170px;
@@ -167,11 +167,12 @@
     font-family: "Bai Jamjuree", sans-serif;
     opacity: 80%;
     margin-bottom: -25px;
-    margin-left: 5px;
+    margin-left: 27px;
   }
   #container-l > p {
     width: 372px;
     line-height: 1.5em;
+    margin-left: 10px;
     padding: 20px;
     font-size: 140%;
     opacity: 50%;
@@ -184,11 +185,12 @@
     font-family: "Bai Jamjuree", sans-serif;
     opacity: 80%;
     margin-bottom: -25px;
-    margin-left: 5px;
+    margin-left: 20px;
   }
   #container-t > p {
     width: 372px;
     line-height: 1.5em;
+    margin-left: 15px;
     padding: 20px;
     font-size: 140%;
     opacity: 50%;
@@ -201,26 +203,26 @@
     font-family: "Bai Jamjuree", sans-serif;
     opacity: 80%;
     margin-bottom: -25px;
-    margin-left: 5px;
   }
   #container-v > p {
     width: 372px;
     line-height: 1.5em;
+    margin-left: 13px;
     padding: 20px;
     font-size: 140%;
     opacity: 50%;
     font-family: "Bai Jamjuree", sans-serif;
   }
   .lista {
-    margin: 100px 0px 40px 160px;
+    margin: 100px 0px 40px 175px;
     width: 60px;
   }
   .texto {
-    margin: 100px 0px 40px 160px;
+    margin: 100px 0px 40px 175px;
     width: 60px;
   }
   .visualizacao {
-    margin: 100px 0px 40px 160px;
+    margin: 100px 0px 40px 175px;
     width: 60px;
   }
   .parceria {
